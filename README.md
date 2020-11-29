@@ -1,13 +1,12 @@
-We may want to rename the repository to scalable-kmeans++, as the "plus plus" is different from the traditional kmeans algorithm
+# Scalable k-means++
 
+This repository contains the deliverables for Zachary Nawrocki, and Ziping Song's pedagogical course project in CSCI 4961, Randomized Algorithms for Machine Learning and Optimization at Rensselaer Polytechnic Institute. <br>
 
-**Making note to add documentation, for finalized deliverables**
+The topic we selected was Scalable k-means++, based on the following paper: https://arxiv.org/pdf/1203.6402.pdf
 
+## Contents
+1. [Empirical Evaluations](https://github.com/eddie1208/Scalable-K-Means-plus-plus/tree/main/empirical_evaluation)
+2. [Slides](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/MLOPT%20Project%20Presentation.pdf)
+3. [Problem Set](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/Scalable_K_means_Problem_Set.pdf)
 
-
-
-
-Overview
-What's in this repository
-
-... link to presentation ...
+The video presentation is linked through Rensselaer's Box storage [here]()
