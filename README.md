@@ -1,6 +1,6 @@
 # Scalable k-means++
 
-This repository contains the deliverables for Zachary Nawrocki, and Ziping Song's pedagogical course project in CSCI 4961, Randomized Algorithms for Machine Learning and Optimization at Rensselaer Polytechnic Institute. <br>
+This repository contains the deliverables for Jeffrey Lehmann, Zachary Nawrocki, and Ziping Song's pedagogical course project in CSCI 4961, Randomized Algorithms for Machine Learning and Optimization, at Rensselaer Polytechnic Institute. <br>
 
 The topic we selected was Scalable k-means++, based on the following paper: https://arxiv.org/pdf/1203.6402.pdf
 
@@ -9,4 +9,4 @@ The topic we selected was Scalable k-means++, based on the following paper: http
 2. [Slides](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/MLOPT%20Project%20Presentation.pdf)
 3. [Problem Set](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/Scalable_K_means_Problem_Set.pdf)
 
-The video presentation is linked through Rensselaer's Box storage [here]()
+The video presentation is linked through Rensselaer's Box storage [here]().
